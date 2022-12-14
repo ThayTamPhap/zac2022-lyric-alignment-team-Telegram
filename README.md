@@ -1,3 +1,7 @@
+https://www.facebook.com/groups/machinelearningcoban/posts/1607177313073003
+
+- - -
+
 # Solution for Zalo AI Challenge 2022 - Lyrics Alignment
 <p align="center">
     <img src="./example.png" height="200">
